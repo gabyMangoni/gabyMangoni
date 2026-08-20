@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Gaby Mangoni</h1>
-<h3 align="center">Diseñadora Grafica / Web y <br> Developer Web Full Stack</h3>
+<h3 align="center">Desarrollo Full Stack ~ Front End</h3>
 
 - 💬 Consultame **HTML, CSS, JavaScript & MySQL**
 
