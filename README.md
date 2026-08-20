@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Gaby Mangoni</h1>
 <h3 align="center">Desarrollo Full Stack ~ Front End</h3>
 
-- 💬 Consultame **HTML, CSS, JavaScript & MySQL**
+- Full Stack Developer con 4+ años de experiencia en desarrollo de aplicaciones web con React, Node.js y arquitecturas basadas en GCP. Background previo de 20 años en diseño digital, lo que aporta una perspectiva sólida de UI/UX poco común en perfiles técnicos. Experiencia integrando APIs, modelando bases de datos MySQL y desarrollando circuitos serverless para operaciones en tiempo real. **
 
 - ⚡ Contactame **mangonigabriela@gmail.com**
 
